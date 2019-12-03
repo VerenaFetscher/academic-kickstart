@@ -75,5 +75,3 @@ I am a Postdoctoral Researcher at the University of Hamburg and an Associate Mem
 Methodologically, I combine quantitative observational analyses with experimental approaches. The institutional dimensions I am interested in are difficult to study in isolation. I therefore draw from real-world variations and utilize laboratory and online experiments to study the underlying mechanisms in more controlled settings. 
 
 I am currently teaching seminars on topics in comparative political economy and on the politics of respresentation and economic inequality at the University of Hamburg. Previously, I have thought seminars in comparative political economy at the University of Mannheim.
-
-All this is awesome.
