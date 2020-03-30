@@ -1,5 +1,5 @@
 +++
-title = "Equalizing Incomes over Time: Why Structural Differences in Social Insurance Matter for Redistribution Preferences"
+title = "Equalizing Incomes in the Future: Why Structural Differences in Social Insurance Matter for Redistribution Preferences"
 date = 2019-11-01T13:35:25+01:00
 draft = false
 
@@ -20,7 +20,7 @@ authors = ["Verena Fetscher"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "under review"
+publication = "CAGE Working Paper 463 / 2020 (under review)"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -45,7 +45,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "files/1-pageFutureIncomeEqualization.pdf"
+url_pdf = "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/463-2020_fetscher.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -68,7 +68,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "Fig2_5.pdf"
+image = "Fig2_5_means.pdf"
 caption = ""
 
 +++

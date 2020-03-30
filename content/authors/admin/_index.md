@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral Researcher at the University of Hamburg and an Associate Member of Nuffield College, University of Oxford. My research is in comparative political economy. I study preferences and decision-making. Central questions I am interested in are why some people support higher levels of redistribution than others and what role welfare state institutions and considerations of fairness play for redistribution preferences. My current research further examines the effect of variation in regional economic well-being on political preferences and anti-immigration attitudes.
+I am a Postdoctoral Researcher at the University of Hamburg. I am also an Associate Member of Nuffield College (University of Oxford) and a CAGE Research Associate (University of Warwick). My research is in comparative political economy. I study preferences and decision-making. Central questions I am interested in are why some people support higher levels of redistribution than others and what role welfare state institutions and considerations of fairness play for redistribution preferences. My current research further examines the effect of variation in regional economic well-being on political preferences and anti-immigration attitudes.
 
 Methodologically, I combine quantitative observational analyses with experimental approaches. The institutional dimensions I am interested in are difficult to study in isolation. I therefore draw from real-world variations and utilize laboratory and online experiments to study the underlying mechanisms in more controlled settings. 
 
