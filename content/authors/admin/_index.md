@@ -22,7 +22,7 @@ bio: My research interests include redistribution preferences, fariness concerns
 
 interests:
 - Redistribution Preferences
-- Fairness Concerns
+- Political Representation
 - Experimental Methods
 
 education:
@@ -70,8 +70,16 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral Researcher at the University of Hamburg. I am also an Associate Member of Nuffield College (University of Oxford) and a CAGE Research Associate (University of Warwick). My research is in comparative political economy. I study preferences and decision-making. Central questions I am interested in are why some people support higher levels of redistribution than others and what role welfare state institutions and considerations of fairness play for redistribution preferences. My current research further examines the effect of variation in regional economic well-being on political preferences and anti-immigration attitudes.
+I am a Postdoctoral Researcher at the University of Hamburg. 
+I am also an Associate Member of Nuffield College (University of Oxford). 
+My research is in comparative political economy. 
+I study preference formation and political representations. 
+Central questions I am interested in are why some people support higher levels of redistribution than others 
+and what role institutional factors, identity and questions of fairness play as determinants for redistribution preferences. 
+My current work further assesses the link between descriptive representation and 
+substantive decision-making power in the German context. Methodologically, I combine quantitative observational analyses with experimental approaches. 
 
-Methodologically, I combine quantitative observational analyses with experimental approaches. The institutional dimensions I am interested in are difficult to study in isolation. I therefore draw from real-world variations and utilize laboratory and online experiments to study the underlying mechanisms in more controlled settings. 
 
-I am currently teaching seminars on topics in comparative political economy and on the politics of respresentation and economic inequality at the University of Hamburg. Previously, I have thought seminars in comparative political economy at the University of Mannheim.
+I am currently teaching seminars on topics in comparative political economy and on the 
+politics of respresentation and economic inequality at the University of Hamburg. 
+Previously, I have thought seminars in comparative political economy at the University of Mannheim.
