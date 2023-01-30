@@ -20,7 +20,7 @@ authors = ["Verena Fetscher"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "under review"
+publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.

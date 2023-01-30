@@ -1,11 +1,12 @@
 +++
-title = "Income, Equality of Opportunity and Equality of Outcomes in Industrialised Democracies"
-date = 2023-10-01T13:35:25+01:00
+title = "Gendered Policy Making? Access of female MPs to legislative committees in German State Legislatures"
+date = 2023-01-30T12:10:15+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Verena Fetscher", "David Rueda"]
+authors = ["Verena Fetscher","Philip Manow","Vera E. Troeger"]
 
+# Filter by publication type.
 # Publication type.
 # Legend:
 #  0: Uncategorized
@@ -16,19 +17,17 @@ authors = ["Verena Fetscher", "David Rueda"]
 #  5: Technical report
 #  6: Book
 #  7: Book chapter
-#  8: Teaching
-publication_types = ["3"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
 publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
-abstract_short = ""
-
+abstract = "Much work has been done on the gender composition of parliaments but less is know about access and position of female MPs to/in parliamentary committees. These committees exert important policy-making powers in many parliamentary democracies. We show that access to committees is gendered, and women are less likely to become members and chairs of more important committees such as finance or economics. We argue that this gendered access is not merely explainable by factors such as competence, expertise and experience but also due to potential self-selection and discrimination. We propose theoretical and empirical ways to distinguish the two. We test our arguments with unique individual level data on MPs of the German Bundestag and state parliaments since 1948. Our results show that there is gender bias in access and composition of legislative committees that is somewhat mitigated by experience and expertise of MPs. Our results help linking aspects of descriptive representation of women and their ability to influence policy-decisions."
+summary = ""
 # Featured image thumbnail (optional)
-image_preview = ""
+#image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -60,10 +59,10 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does this page contain LaTeX math? (true/false)
-math = true
+math = false
 
 # Does this page require source code highlighting? (true/false)
-highlight = false
+highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -72,4 +71,3 @@ image = ""
 caption = ""
 
 +++
-
