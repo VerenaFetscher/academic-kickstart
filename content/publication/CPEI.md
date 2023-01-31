@@ -1,5 +1,5 @@
 +++
-title = "Political Representation and Economic Inequality (Fall 2019, 2020, 2021)"
+title = "Topics in Comparative Political Economy: Preferences and Institutions I (Fall 2019, 2020, 2021)"
 date = 2019-10-01T13:35:25+01:00
 draft = false
 
@@ -24,8 +24,8 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "The seminar introduces students to empirical research on political representation and economic inequality. The theoretical idea that the interest of each person is given equal consideration in political decision-making stands at the very core of democratic governance. By now, there is strong evidence that policy-making in some democracies is biased towards the wealthy and better-off parts of society, and that unequal representation has been found for legislators, party platforms, national policy and state policy. To complicate matters even further, research also shows that the gap in political participation keeps widening. In the course of the seminar, we will assess some of the most relevant research in the field. What do we currently know about political equality and representation? Who are the underrepresented and how do political institutions matter? How does economic inequality come in? Finally, how can we link economic inequality to current political phenomena related to identity politics and populism? Students will become familiar with the most influential theoretical and empirical work on these topics. They will assess theoretical approaches, research strategies and empirical approaches in the literature and put a specific focus on the connection between theoretical models and empirical implications."
-summary = "Graduate Seminar"
+abstract = "Comparative political economy studies the interaction between politics and the market. It compares distributional outcomes across countries by assessing differences in the relationships among individuals, institutions and the economy. The key question is who gets what, when and how? This seminar introduces students to central topics in comparative political economy. Students will learn how political institutions shape economic outcomes, how power struggles between social actors influence political decisions, and how material and non-material concerns form individual preferences. The project seminar spans over two semesters. In the first half of the seminar (semester 1), students will learn how to systematically assess these and other questions in a way that prepares them to conduct their own research projects in the second half of the seminar (semester 2). Through reading, writing, and seminar participation, they will evaluate concepts, theoretical approaches, and empirical research that is most relevant to the field. In the second part (semester 2), students will work on their own research projects in the field of comparative political economy."
+summary = "Undergraduate Seminar"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -45,7 +45,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "files/syllabus_PREI_2021.pdf"
+url_pdf = "files/syllabus_CPE_PartI_2021.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

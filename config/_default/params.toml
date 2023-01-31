@@ -87,11 +87,11 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "verena.fetscher@uni-hamburg.de"
-phone = "+49 40 42838 3230"
+# phone = "+49 40 42838 3230"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Allendeplatz 1", city = "Hamburg", region = "", postcode = "20253", country = "Germany", country_code = "DE"}
+address = {street = "Von-Melle-Park 5", city = "Hamburg", region = "", postcode = "20253", country = "Germany", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

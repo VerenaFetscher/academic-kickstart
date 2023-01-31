@@ -1,5 +1,5 @@
 +++
-title = "Topics in Comparative Political Economy (Fall 2019)"
+title = "Topics in Comparative Politics (Spring 2020, 2021, 2022)"
 date = 2019-10-01T13:35:25+01:00
 draft = false
 
@@ -24,8 +24,8 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "The seminar examines central topics in comparative political economy research. Students will learn the analytical skills to understand the relationships affecting individuals, political and economic institutions and policy outcomes. Through reading, writing, and seminar participation, they will evaluate concepts, theoretical approaches, and empirical research most relevant to the field. One of the seminal questions in the study of politics: Who gets what, when and how? Comparative political economy focuses on the comparative study of distributional outcomes across countries by assessing differences in the relationships among individuals, institutions and the economy. Why are some countries wealthier than other? Why do some democracies redistribute more than others? What is the relationship between inequality and growth? Why do some people want more redistribution than others? In the first half of this seminar, students will systematically assess these and other questions in a way that prepares them to conduct their own research projects in the second half of the seminar."
-summary = "Undergraduate seminar"
+abstract = "The course introduces students to central topics in comparative politics and has three main parts. Part I focuses on one key element of democracies: elections. We will discuss different aspects of electoral systems and how they influence party systems and government responsiveness. Part II evaluates different regime types. We discuss central theories related to democratization, democratic consolidation and dictatorship. Part III assesses current societal challenges from a comparative politics perspective. Our interests will lie in questions on economic inequality and redistribution, climate change and migration."
+summary = "Undergraduate Seminar"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -45,7 +45,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "files/syllabusCPE2019.pdf"
+url_pdf = "files/VF_TopicsCP_Syllabus.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

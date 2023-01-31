@@ -1,6 +1,6 @@
 +++
-title = "Political Representation and Economic Inequality (Fall 2019, 2020, 2021)"
-date = 2019-10-01T13:35:25+01:00
+title = "Research Seminar (Fall 2021, Spring 2021, 2022)"
+date = 2023-01-01T13:35:25+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -24,8 +24,8 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "The seminar introduces students to empirical research on political representation and economic inequality. The theoretical idea that the interest of each person is given equal consideration in political decision-making stands at the very core of democratic governance. By now, there is strong evidence that policy-making in some democracies is biased towards the wealthy and better-off parts of society, and that unequal representation has been found for legislators, party platforms, national policy and state policy. To complicate matters even further, research also shows that the gap in political participation keeps widening. In the course of the seminar, we will assess some of the most relevant research in the field. What do we currently know about political equality and representation? Who are the underrepresented and how do political institutions matter? How does economic inequality come in? Finally, how can we link economic inequality to current political phenomena related to identity politics and populism? Students will become familiar with the most influential theoretical and empirical work on these topics. They will assess theoretical approaches, research strategies and empirical approaches in the literature and put a specific focus on the connection between theoretical models and empirical implications."
-summary = "Graduate Seminar"
+abstract = "Das Seminar gibt eine Einführung in die Konzeption von Forschungsdesigns in der Vergleichenden Forschung und den Regionalstudien. Dazu werden vor allem Grundlagen der Konzeption eines Forschungsprojektes diskutiert: Entwicklung einer Fragestellung, Materialauswahl, Fallauswahl, und Methodenwahl. Im Zentrum steht immer die Frage: Welche Art von Beobachtungen benötige ich, damit ich meine Forschungsfrage beantworten kann."
+summary = "Graduate Course"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -45,7 +45,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "files/syllabus_PREI_2021.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""

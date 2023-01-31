@@ -1,6 +1,6 @@
 +++
 title = "Income, Equality of Opportunity and Equality of Outcomes in Industrialised Democracies"
-date = 2023-10-01T13:35:25+01:00
+date = 2023-01-01T13:35:25+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -72,3 +72,4 @@ image = ""
 caption = ""
 
 +++
+

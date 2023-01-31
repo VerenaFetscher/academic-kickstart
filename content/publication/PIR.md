@@ -25,7 +25,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Economic inequality and its effect on democratization and democratic consolidation is widely discussed in comparative politics. Some argue that with increasing economic inequality in society, elites face higher costs for giving up authoritarian rule, which otherwise serves them as an institutional means for sustaining unequal class or group relations. Why then do autocratic regimes ever undergo processes of democratization? And how can we explain democratic consolidation? These are the fundamental questions we are going to address in the first part of the course. In the second part, we turn the focus to the relationship between advanced democracies and redistribution. We discuss how economic inequality may manifest itself in political inequality, and how differences in the design of democratic institutions could interfere in this process. Generally, we ask why some democracies redistribute economic resources more equally than others, and effects of economic inequality on politics and political responsiveness. Students will get familiar with the most influential contributions in the topics presented above. Furthermore, the course emphasizes research design and questions of causal inference in the discussed literature."
-summary = "Undergraduate seminar"
+summary = "Undergraduate Seminar"
 
 # Featured image thumbnail (optional)
 image_preview = ""

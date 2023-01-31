@@ -1,10 +1,10 @@
 +++
-title = "Beliefs in Social Mobility and Fairness Preferences: An Experimental Approach"
-date = 2019-09-01T13:35:25+01:00
+title = "Topics in Comparative Political Economy: Preferences and Institutions II (Spring 2020, 2021, 2022)"
+date = 2019-10-01T13:35:25+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Verena Fetscher"]
+#authors = ["Verena Fetscher"]
 
 # Publication type.
 # Legend:
@@ -17,15 +17,15 @@ authors = ["Verena Fetscher"]
 #  6: Book
 #  7: Book chapter
 #  8: Teaching
-publication_types = ["3"]
+publication_types = ["8"]
 
 # Publication name and optional abbreviated version.
 publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
-abstract_short = ""
+abstract = "The course will support you formulate your own research project by addressing fundamentals of theory building and research design in political science. The course covers a range of topics, starting from the selection of important and interesting research topics, formulating research questions, literature assessments, the development of theory and empirically testable hypotheses, issues of case selection, measurement and operationalization, and basics in quantitative and qualitative designs."
+summary = "Undergraduate Seminar"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -45,7 +45,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/syllabus_CPE_PartII_2022.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -60,10 +60,10 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does this page contain LaTeX math? (true/false)
-math = true
+math = false
 
 # Does this page require source code highlighting? (true/false)
-highlight = false
+highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.

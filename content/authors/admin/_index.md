@@ -48,9 +48,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/FetscherVerena
-#- icon: google-scholar
- # icon_pack: ai
-  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?hl=en&user=WFsFstUAAAAJ
 #- icon: github
  # icon_pack: fab
   #link: https://github.com/verenafetscher
@@ -81,5 +81,5 @@ substantive decision-making power in the German context. Methodologically, I com
 
 
 I am currently teaching seminars on topics in comparative political economy and on the 
-politics of respresentation and economic inequality at the University of Hamburg. 
+politics of representation and economic inequality at the University of Hamburg. 
 Previously, I have thought seminars in comparative political economy at the University of Mannheim.

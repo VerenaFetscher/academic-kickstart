@@ -1,10 +1,10 @@
 +++
-title = "Income, Equality of Opportunity and Equality of Outcomes in Industrialised Democracies"
-date = 2023-10-01T13:35:25+01:00
+title = "Political Representation in German State Legislatures"
+date = 2022-10-01T13:35:25+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Verena Fetscher", "David Rueda"]
+authors = ["Verena Fetscher", "Philip Manow", "Vera E. Troeger"]
 
 # Publication type.
 # Legend:

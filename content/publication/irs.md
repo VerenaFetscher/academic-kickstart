@@ -1,5 +1,5 @@
 +++
-title = "Political Representation and Economic Inequality (Fall 2019, 2020, 2021)"
+title = "Interdisciplinary Seminar in Politics and Economics (Spring 2021, 2022)"
 date = 2019-10-01T13:35:25+01:00
 draft = false
 
@@ -24,8 +24,8 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "The seminar introduces students to empirical research on political representation and economic inequality. The theoretical idea that the interest of each person is given equal consideration in political decision-making stands at the very core of democratic governance. By now, there is strong evidence that policy-making in some democracies is biased towards the wealthy and better-off parts of society, and that unequal representation has been found for legislators, party platforms, national policy and state policy. To complicate matters even further, research also shows that the gap in political participation keeps widening. In the course of the seminar, we will assess some of the most relevant research in the field. What do we currently know about political equality and representation? Who are the underrepresented and how do political institutions matter? How does economic inequality come in? Finally, how can we link economic inequality to current political phenomena related to identity politics and populism? Students will become familiar with the most influential theoretical and empirical work on these topics. They will assess theoretical approaches, research strategies and empirical approaches in the literature and put a specific focus on the connection between theoretical models and empirical implications."
-summary = "Graduate Seminar"
+abstract = "Income inequality has risen sharply in most advanced democracies. While there are a host of causes, including globalization, technology, education, and fiscal policy, this seminar asks when and why people are willing to accept unequal societies. Current research shows that fairness considerations play a central role. People are willing to accept income differences that are based on effort and choice, but less so if inequalities are the outcome of luck and circumstances. Yet, even luck and circumstances can create entitlements. People also appear to support the idea that inequality is acceptable if it is balanced by social mobility. However, social mobility had been virtually stagnant in many countries for years, and educational success strongly relates to social class and family background. This seminar introduces students to influential research on the politics of inequality, distributive justice, and fairness. Central questions we ask are how entitlements are created, how people differ in their fairness ideals, how equality of opportunity and intergenerational mobility relate to fairness, how social policy and institutions respond to conceptualizations of fairness, and how fairness relates to questions of gender and identity. The seminar puts a focus on quantitative and experimental studies on these topics and unites research from economics and political science."
+summary = "Graduate Course"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -45,7 +45,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "files/syllabus_PREI_2021.pdf"
+url_pdf = "files/syllabus_IRS_2022.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
