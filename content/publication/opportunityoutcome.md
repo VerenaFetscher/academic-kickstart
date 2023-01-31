@@ -1,10 +1,10 @@
 +++
-title = "The Local Economy, Immigration and Political Preferences"
-date = 2019-10-01T13:35:25+01:00
+title = "Income, Equality of Opportunity and Equality of Outcomes in Industrialised Democracies"
+date = 2023-10-01T13:35:25+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Verena Fetscher", "David Rueda", "Daniel Stegmueller"]
+authors = ["Verena Fetscher", "David Rueda"]
 
 # Publication type.
 # Legend:
@@ -72,4 +72,3 @@ image = ""
 caption = ""
 
 +++
-
