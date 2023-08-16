@@ -1,6 +1,6 @@
 +++
-title = "Income, Perceptions of Inequality and Support for Redistribution: An Information Provision Experiment in the UK"
-date = 2023-01-30T16:10:15+01:00
+title = "For Richer and for Poorer: Income, Perceptions of Inequality and Support for Redistribution"
+date = 2023-08-15T16:10:15+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -24,7 +24,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Inequality matters for preference formation. We know from previous literature that: (1) it matters most for the rich and less for the poor who always gain from redistribution irrespective of the level of inequality; and (2) perceptions are an important mediator for preference formation. Given that the rich respond more to differences in inequality, we would also expect the effect of perceptions to be most prevalent among the rich. In this paper, we do two things. First, we assess observationally with ISSP data whether income mediates the relationship between perception and preference. We then conduct a survey experiment to explore causal links. We manipulate perceptions by providing pessimistic information on the true level of inequality and update people's beliefs. We show that information about high levels of inequality makes the poor more homogeneously supportive of redistribution, and that it increases the variation of support for redistribution among the rich. We also show that fairness beliefs matter for the perception-preference link among the rich."
+abstract = "In this paper we focus on perceptions of (or beliefs about) macro inequality and we argue that perceptions matter differently to the rich and the poor. We hypothesise that material and other-regarding factors make inequality perceptions push the redistribution preferences of the poor in a similar direction (i.e., more perceived inequality, more support for redistribution). For the rich, we argue that material self-interest and other-regarding concerns push redistribution preferences in opposing directions. Our paper attempts a degree of methodological triangulation by developing both an observational and an experimental analysis supporting our theoretical claims. First we show how perceptions matter for the rich and for the poor in an analysis of ISSP data (1999, 2009 and 2019). We then develop an online survey experiment (fielded in the UK in the summer of 2022) with a randomized information treatment designed to shift perceptions of macro inequality."
 
 summary = ""
 # Featured image thumbnail (optional)
@@ -46,7 +46,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://osf.io/bk4zh"
 url_code = ""
 url_dataset = ""
 url_project = ""

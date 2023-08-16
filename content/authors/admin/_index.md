@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include redistribution preferences, fariness concerns, and experimental methods
+bio: My research interests include redistribution preferences, fairness concerns, and experimental methods
 
 interests:
 - Redistribution Preferences

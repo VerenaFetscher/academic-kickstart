@@ -1,5 +1,5 @@
 +++
-title = "Topics in Comparative Politics (Spring 2020, 2021, 2022)"
+title = "Topics in Comparative Politics (Spring 2020, 2021, 2022, 2023)"
 date = 2019-10-01T13:35:25+01:00
 draft = false
 

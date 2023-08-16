@@ -1,5 +1,5 @@
 +++
-title = "Political Representation and Economic Inequality (Fall 2019, 2020, 2021)"
+title = "Political Representation and Economic Inequality (Fall 2019, 2020, 2021, Spring 2023)"
 date = 2019-10-01T13:35:25+01:00
 draft = false
 
